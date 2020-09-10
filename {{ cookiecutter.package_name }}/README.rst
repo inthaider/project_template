@@ -22,7 +22,7 @@ Look in folder for paper
 
 CODE
 ----
-The code is included in the ``macro_lightning`` folder.
+The code is included in the ``{{ cookiecutter.module_name }}`` folder.
 
 
 Documentation
